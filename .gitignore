@@ -4,3 +4,7 @@ ebin
 *~
 */*~
 .eunit
+doc/edoc-info
+doc/stylesheet.css
+_build/
+rebar.lock
